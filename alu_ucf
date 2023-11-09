@@ -1,0 +1,36 @@
+ask mam for loc on board for downloading 
+< ps . all the best >
+
+
+NET " a < 0 >1" LOC ="NB";
+
+NET " a < 1 >" LOC="E2";
+
+NET " a < 2 >" LOC =" ";
+
+NET " a < 3 >" LOC=" ";
+
+NET " b < 0 >" LOC=" ";
+
+NET "b<1>" LOC=" ";
+
+NET " b<2>" LOC=" ";
+
+NET "b<3>" LOC=" ";
+
+NET "mode<0" LOC =" ";
+
+NET " mode < 1 >"LOC="  ";
+
+NET "mode<3>" LOC =" ";
+
+
+
+NET "y<0>" LOC=" ";
+
+NET "y<1>" LOC=" ";
+
+
+NET "y<2>" LOC="G1";
+
+NET "y<3>" LOC="P4
